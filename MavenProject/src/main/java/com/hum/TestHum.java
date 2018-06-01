@@ -75,6 +75,7 @@ public class TestHum
 		      public void end()
 		      {
 		        driver.quit(); //Close application
+		        System.out.println("Successfully Closed the Browser!!");
 		      }
 	      
 	/*  @AfterClass
